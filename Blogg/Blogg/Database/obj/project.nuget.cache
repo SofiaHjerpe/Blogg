@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZRg33QQfq/Jg37GV8ptFwfpZcjanXxQQsKCxg7jqUMyEkvUpGzmYiQVf0ZytYNJAWmhtJeWfLYQRxgM0IEft5Q==",
+  "dgSpecHash": "0w06wK8dvRUq7xztijE5lgLcvkGlTsUTcxYCCyn8ydPxWI2Ff8NlEAOQhBXLcVyNHX9q4mQbZy/kT3n1Mi3swQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hjerp\\Documents\\GitHub\\Blogg\\Blogg\\Database\\Database.csproj",
+  "projectFilePath": "C:\\Users\\hjerp\\Documents\\GitHub\\Bloggapp\\Blogg\\Blogg\\Database\\Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hjerp\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\hjerp\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tp18VEh/5LXIvhcBRQ9Y+JRSNIc9LO6ynkP4pL8/xhxOMctdycYLXN5CB3KE60Onx6Na0yW6m3idiK9TqODW4g==",
+  "dgSpecHash": "rhGM5ZioD6Cs4EPmLANQCl7k76I8Lgs59VBXYki6oZgbq11+IO1/qyvwp0nlDmxQyc2sjUZq7mj44d3qBE1YXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hjerp\\Documents\\GitHub\\Blogg\\Blogg\\Blogg\\Blogg.csproj",
+  "projectFilePath": "C:\\Users\\hjerp\\Documents\\GitHub\\Bloggapp\\Blogg\\Blogg\\Blogg\\Blogg.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hjerp\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\hjerp\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
